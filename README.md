@@ -1,4 +1,4 @@
-# INFO 550 - Machine Learning
+# BIOS 534 - Machine Learning
 
 ## Summary
 
